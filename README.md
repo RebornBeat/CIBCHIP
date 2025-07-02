@@ -1443,6 +1443,8 @@ float update_solar_electromagnetic_system(SolarElectromagneticHarvester* harvest
 
 The environmental energy integration demonstrates how CIBCHIP transcends traditional computing energy paradigms by operating more like biological neural networks that derive both energy and information from environmental interactions. This integration enables CIBCHIP deployment in remote environments, underwater installations, and autonomous systems that require energy independence while maintaining sophisticated computational capabilities.
 
+Bidirectional electromagnetic interaction enables CIBCHIP processors to simultaneously harvest electromagnetic energy from their environment while generating electromagnetic fields for communication and environment modification, creating comprehensive electromagnetic energy management that transcends traditional energy consumption models. This bidirectional capability operates through intelligent electromagnetic field coordination where processors harvest ambient electromagnetic energy during low-communication periods while generating communication and environment modification fields during active processing periods, enabling energy-efficient electromagnetic interaction that optimizes both energy harvesting and active electromagnetic capabilities based on processing requirements and environmental conditions.
+
 ## Universal Computing Substrate Architecture
 
 ### CIBOS Operating System Foundation
