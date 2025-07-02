@@ -482,7 +482,7 @@ SpikePattern* audio_to_spikes(float* audio_samples, int sample_count, float samp
 }
 ```
 
-Electromagnetic field processing enables direct sensing of electromagnetic signals including radio frequency, wireless communication, and electromagnetic environment characteristics through temporal encoding that preserves signal timing and amplitude relationships. Electromagnetic processing supports communication protocol decoding, electromagnetic interference analysis, and wireless signal processing applications that benefit from temporal-analog processing capabilities.
+Electromagnetic field processing enables comprehensive electromagnetic interaction including both passive sensing of electromagnetic signals and active generation of electromagnetic fields through advanced microwave synthesis capabilities. Passive sensing includes radio frequency monitoring, wireless communication reception, and electromagnetic environment analysis through temporal encoding that preserves signal timing and amplitude relationships, while active generation enables wireless processor communication, electromagnetic environment modification, and ultra-high-speed microwave frequency temporal processing. Electromagnetic processing supports communication protocol decoding, electromagnetic interference analysis, and wireless signal processing applications that benefit from temporal-analog processing capabilities.
 
 ```c
 // Electromagnetic Processing - EM Field to Spike Conversion
